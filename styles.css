@@ -1,0 +1,63 @@
+h1{
+font-family: 'Great Vibes', cursive;    
+color: black;
+font-size:50px;
+text-shadow: 4px 4px silver;
+}
+
+
+
+img{
+    width:400px;
+    border: 8px solid pink;
+}
+body{
+     background-image: url("https://media3.giphy.com/media/l0K3Z0mTE2gYF37Vu/source.gif");
+  background-color: #cccccc;
+  text-align:center;
+  font-size: 100%;
+ 
+    
+}
+.purple{
+    color:black;
+    font-family: 'Bungee Shade', cursive;
+    font-size:43px; 
+  
+}
+p{
+    color:black;
+    font-size:38px;
+   font-family: 'Lobster', cursive;
+}
+.h{
+    color:purple;
+     font-family: 'Bungee Shade', cursive;
+    font-size:43px;
+}
+.b{
+    font-family: 'Bungee Shade', cursive;
+    text-shadow: 3px 2px yellow;
+}
+.s{
+    text-shadow: 3px 2px blue;
+}
+.t{
+ text-shadow: 3px 2px orange;   
+}
+.p{
+  text-shadow: 3px 2px hotpink;
+  
+}
+.h2{
+ font-family: 'Press Start 2P', cursive;
+}
+.b2{
+    font-family: 'Cinzel', serif; 
+}
+.s2{
+font-family: 'Shrikhand', cursive;    
+}
+.t2{
+    font-family: 'Lily Script One', cursive;
+}
